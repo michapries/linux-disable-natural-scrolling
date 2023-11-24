@@ -1,0 +1,1 @@
+# linux-disable-natural-scrolling
